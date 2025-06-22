@@ -54,5 +54,6 @@ This project analyzes the global deployment of U.S. military troops between **20
 ## 📌 Badges
 
 ![Rows](https://img.shields.io/badge/Total%20Rows-279-blue)  
+![Columns](https://img.shields.io/badge/Total%20Columns-9-blue)  
 ![SQL](https://img.shields.io/badge/Tech-SQL-informational)  
 ![Status](https://img.shields.io/badge/Status-Completed-success)
